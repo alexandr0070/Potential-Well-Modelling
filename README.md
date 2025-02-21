@@ -32,19 +32,3 @@ Applying boundary conditions leads to transcendental equations that determine th
 ### 4. Visualization  
 
 Once the eigenfunctions are determined, they are plotted to visualize the quantized wave states inside the well.  
-
-## Expected Results  
-
-- **Discrete energy levels \( E_n \)** corresponding to bound states.  
-- **Wavefunctions \( \psi_n(x) \)** localized inside the well, decaying outside.  
-- **Graphical representation** of the eigenfunctions.  
-
-## Future Extensions  
-
-- Extend the solution to **3D wells** or **asymmetric wells**.  
-- Compare numerical solutions with analytical approximations.  
-- Analyze the effect of increasing \( U_0 \) on energy levels.  
-
----
-
-This project provides a fundamental understanding of quantum wells, bound states, and the quantization of energy in potential wells. 🚀  
