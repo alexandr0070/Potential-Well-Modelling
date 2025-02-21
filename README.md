@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandr0070/Potential-Well-Modelling/blob/main/PotentialWell.ipynb)
+
 # Solving the Schrödinger Equation for a Rectangular Potential Well  
 
 ## Problem Statement  
